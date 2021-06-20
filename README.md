@@ -2,5 +2,5 @@
 
 <p>Exemplos de Deashbords.</p>
 
-Libs 
+Lib 
   react-google-charts
